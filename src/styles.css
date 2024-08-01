@@ -1,0 +1,33 @@
+/* Tipografía */
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Neris', sans-serif;
+  }
+  
+  /* Colores */
+  .primary-color {
+    color: rgb(0, 172, 193);
+  }
+  
+  .highlight-color {
+    color: rgb(234, 171, 0);
+  }
+  
+  .bg-primary {
+    background-color: rgb(0, 172, 193);
+  }
+  
+  .bg-highlight {
+    background-color: rgb(234, 171, 0);
+  }
+  
+  /* Botones */
+  .btn-primary {
+    background-color: rgb(0, 172, 193);
+    border-color: rgb(0, 172, 193);
+  }
+  
+  .btn-highlight {
+    background-color: rgb(234, 171, 0);
+    border-color: rgb(234, 171, 0);
+  }
+  
